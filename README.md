@@ -12,7 +12,7 @@ This project uses Data Science & Machine Learning to analyze Instagram reach dat
 ✔ Synthetic data augmentation for better training
 ✔ ML models tested:
 	•	Passive Aggressive Regressor (baseline)
-	•	Random Forest Regressor (tuned)
+	•	Passive Aggressive Regressor (tuned)
 ✔ Hyperparameter tuning using GridSearchCV
 ✔ Performance comparison before vs after tuning
 ✔ Export-ready results for reporting
